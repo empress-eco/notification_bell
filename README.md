@@ -1,12 +1,15 @@
 <div align="center">
-    <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="NotiBell Logo">
-</div>
-  
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 NotiBell is a powerful and innovative application designed to revolutionize your workflow management. By leveraging push notifications, geo-fencing, and face recognition technologies, NotiBell aims to enhance and streamline your work processes.
 
-- [Explore the Docs](https://wiki.nestorbird.com/wiki/installation-guide-notibell)
-- [Report a Bug](https://github.com/empress-eco/notification_bell/issues)
-- [Request a Feature](https://github.com/empress-eco/notification_bell/issues)
+[Explore the Docs](https://wiki.nestorbird.com/wiki/installation-guide-notibell) | [Report a Bug](https://github.com/empress-eco/notification_bell/issues) | [Request a Feature](https://github.com/empress-eco/notification_bell/issues)
+
+</div>
+
+  
+
 
 ## About The Project
 
